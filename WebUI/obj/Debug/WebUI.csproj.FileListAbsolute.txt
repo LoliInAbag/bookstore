@@ -1,0 +1,66 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\WebUI.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\WebUI.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\WebUI.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\Domain.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\Moq.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\Ninject.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Helpers.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Mvc.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Razor.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Webpages.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\WebActivatorEx.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\Domain.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\Moq.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\Ninject.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Razor.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Webpages.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Helpers.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Mvc.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\obj\Debug\WebUI.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\obj\Debug\WebUI.pdb
+D:\store\WebUI\bin\WebUI.dll.config
+D:\store\WebUI\bin\WebUI.dll
+D:\store\WebUI\bin\WebUI.pdb
+D:\store\WebUI\bin\Domain.dll
+D:\store\WebUI\bin\EntityFramework.dll
+D:\store\WebUI\bin\EntityFramework.SqlServer.dll
+D:\store\WebUI\bin\Moq.dll
+D:\store\WebUI\bin\Ninject.dll
+D:\store\WebUI\bin\Ninject.Web.Common.dll
+D:\store\WebUI\bin\Ninject.Web.Mvc.dll
+D:\store\WebUI\bin\System.Web.Helpers.dll
+D:\store\WebUI\bin\System.Web.Mvc.dll
+D:\store\WebUI\bin\System.Web.Razor.dll
+D:\store\WebUI\bin\System.Web.Webpages.Deployment.dll
+D:\store\WebUI\bin\System.Web.Webpages.dll
+D:\store\WebUI\bin\System.Web.Webpages.Razor.dll
+D:\store\WebUI\bin\WebActivatorEx.dll
+D:\store\WebUI\bin\Domain.pdb
+D:\store\WebUI\bin\EntityFramework.xml
+D:\store\WebUI\bin\EntityFramework.SqlServer.xml
+D:\store\WebUI\bin\Moq.xml
+D:\store\WebUI\bin\Ninject.xml
+D:\store\WebUI\bin\Ninject.Web.Common.xml
+D:\store\WebUI\bin\Ninject.Web.Mvc.xml
+D:\store\WebUI\bin\System.Web.Razor.xml
+D:\store\WebUI\bin\System.Web.Webpages.xml
+D:\store\WebUI\bin\System.Web.Webpages.Deployment.xml
+D:\store\WebUI\bin\System.Web.Webpages.Razor.xml
+D:\store\WebUI\bin\System.Web.Helpers.xml
+D:\store\WebUI\bin\System.Web.Mvc.xml
+D:\store\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\store\WebUI\obj\Debug\WebUI.dll
+D:\store\WebUI\obj\Debug\WebUI.pdb
